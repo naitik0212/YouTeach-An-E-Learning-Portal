@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?you-teach.in [NC]
+RewriteRule \.(css|js)$ - [NC,F,L]

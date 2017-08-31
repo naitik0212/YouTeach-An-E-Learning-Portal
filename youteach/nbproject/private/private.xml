@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/youteach/application/controllers/Frontend.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/views/frontend/course_view.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/models/Request.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/models/Course.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/views/frontend/sentMessage.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/views/frontend/userCourses.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/views/frontend/courseFinalize.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/views/video_frame.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/views/backend/pages/course_view.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/models/Message.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/config/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/models/Student.php</file>
+            <file>file:/C:/xampp/htdocs/youteach/application/models/Recommender.php</file>
+        </group>
+    </open-files>
+</project-private>
